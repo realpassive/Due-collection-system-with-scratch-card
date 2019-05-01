@@ -12,12 +12,20 @@ the database file is due.sql(check above for the file)
 
 Feature:
 Sign up
+
 login
-blocking
+
+blocking system
+
 scratch card generating system
-admim dashboard
-user receipt 
+
+admim dashboard(president and different officials)
+
+user receipt
+
 The uses scratch card system as a payment method for student
+
+
 NOTE
 the app use MD5 password ecryption(not sure though check code)
 
