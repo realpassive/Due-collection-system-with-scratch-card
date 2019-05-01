@@ -1,0 +1,41 @@
+#pinform{
+    border: 2px #000 solid;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+   
+}
+
+#voguepay{
+    border: 2px #000 solid;
+    margin: 10px;
+    width:40%;
+    float: left;
+   padding: 10px;
+   
+}
+#inner{
+    margin: 0 auto;
+}
+
+
+  table.reference td {
+          border: 1px solid #c3c3c3;
+          padding: 3px;
+          vertical-align: top;
+         
+}
+      
+   table.reference {
+    border-collapse: collapse;
+}
+
+.data{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: xx-large;
+    color: red;
+    text-transform: capitalize;
+    text-transform: uppercase;
+}
+

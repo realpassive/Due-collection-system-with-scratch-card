@@ -1,0 +1,9 @@
+[01-Oct-2015 09:24:17 America/Phoenix] PHP Warning:  include(./session_control.php): failed to open stream: No such file or directory in /home/nassmaut/public_html/portal/includes/header.php on line 1
+[01-Oct-2015 09:24:17 America/Phoenix] PHP Warning:  include(./session_control.php): failed to open stream: No such file or directory in /home/nassmaut/public_html/portal/includes/header.php on line 1
+[01-Oct-2015 09:24:17 America/Phoenix] PHP Warning:  include(): Failed opening './session_control.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nassmaut/public_html/portal/includes/header.php on line 1
+[01-Oct-2015 09:39:56 America/Phoenix] PHP Warning:  include(./session_control.php): failed to open stream: No such file or directory in /home/nassmaut/public_html/portal/includes/header.php on line 1
+[01-Oct-2015 09:39:56 America/Phoenix] PHP Warning:  include(./session_control.php): failed to open stream: No such file or directory in /home/nassmaut/public_html/portal/includes/header.php on line 1
+[01-Oct-2015 09:39:56 America/Phoenix] PHP Warning:  include(): Failed opening './session_control.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nassmaut/public_html/portal/includes/header.php on line 1
+[01-Oct-2015 14:16:18 America/Phoenix] PHP Warning:  include(./session_control.php): failed to open stream: No such file or directory in /home/nassmaut/public_html/portal/includes/header.php on line 1
+[01-Oct-2015 14:16:18 America/Phoenix] PHP Warning:  include(./session_control.php): failed to open stream: No such file or directory in /home/nassmaut/public_html/portal/includes/header.php on line 1
+[01-Oct-2015 14:16:18 America/Phoenix] PHP Warning:  include(): Failed opening './session_control.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nassmaut/public_html/portal/includes/header.php on line 1
