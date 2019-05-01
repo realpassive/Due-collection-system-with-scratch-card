@@ -27,9 +27,12 @@ poor password ecryption
 No pagination
 ETC
 
-The web app has the following path
-localhost/yourhostedapp
+The web app has the following path  
+
+localhost/yourhostedapp 
+
 localhost/yourhostedapp/admincontrol
+
 localhost/yourhostedapp/nacoss
 
 
